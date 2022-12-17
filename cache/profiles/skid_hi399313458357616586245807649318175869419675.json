@@ -1,0 +1,45 @@
+{
+    "Character": {
+        "ID": "AthenaCharacter:CID_028_Athena_Commando_F",
+        "Variants": [{"variants": []}]
+    },
+    "Backpack": {
+        "ID": "AthenaBackpack:BID_004_BlackKnight",
+        "Variants": [{"variants": []}]
+    },
+    "Glider": {
+        "ID": "AthenaGlider:Umbrella_Gold",
+        "Variants": [{"variants": []}]
+    },
+    "Pickaxe": {
+        "ID": "AthenaPickaxe:Pickaxe_ID_804_FNCSS20Male",
+        "Variants": [{"variants": []}]
+    },
+    "SkyDiveContrail": {
+        "ID": "AthenaSkyDiveContrail:Trails_ID_001_Disco",
+        "Variants": [{"variants": []}]
+    },
+    "Dance": {
+        "ID": ["AthenaDance:EID_KPopDance03", "AthenaDance:EID_HipHop01", "AthenaDance:EID_IceKing", "AthenaDance:EID_LazyShuffle", "AthenaDance:EID_EgyptianDance", "AthenaDance:EID_Coronet"],
+        "Variants": [{"variants": []}, {"variants": []}, {"variants": []}, {"variants": []}, {"variants": []}]
+    },
+    "ItemWrap": {
+        "ID": ["AthenaItemWrap:Wrap_384_PaperAirplane", "AthenaItemWrap:Wrap_384_PaperAirplane", "AthenaItemWrap:Wrap_384_PaperAirplane", "AthenaItemWrap:Wrap_384_PaperAirplane", "AthenaItemWrap:Wrap_384_PaperAirplane"],
+        "Variants": [{"variants": []}, {"variants": []}, {"variants": []}, {"variants": []}, {"variants": []}]
+    },
+    "MusicPack": {
+        "ID": "AthenaMusicPack:MusicPack_124_Zest",
+        "Variants": [{"variants": []}]
+    }, 
+    "LoadingScreen": {
+        "ID": "AthenaLoadingScreen:LSID_117_Squishy",
+        "Variants": [{"variants": []}]
+    },
+    "BannerIconTemplate": "BRSeason01",
+    "BannerColorTemplate": null,
+    "vbucks": 9800,
+    "crowns": 124,
+    "level": 157,
+    "battlestars": 50,
+    "favorites": {}
+}
